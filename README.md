@@ -5,7 +5,6 @@ A complete data engineering pipeline for scraping, analyzing, and visualizing pr
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
 ![SQL](https://img.shields.io/badge/SQL-Database%20Analysis-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ## 📊 Project Overview
 
@@ -18,7 +17,7 @@ This project implements a full data pipeline to analyze product trends on Banggo
 
 ## 🏗️ System Architecture
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.8+
